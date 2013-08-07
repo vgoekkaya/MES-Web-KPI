@@ -1,5 +1,5 @@
 // File: readXML.js
-
+ 
 // Start function when DOM has completely loaded 
 $(document).ready(function() {
 
