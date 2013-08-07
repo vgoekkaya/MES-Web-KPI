@@ -1,0 +1,682 @@
+<?xml version="1.0"?><BI_ARBPL>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130502</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Frühschicht</shift_text>
+        <ist_prod>6128.00 </ist_prod>
+        <ist_rues>8145.00 </ist_rues>
+        <ist_still>6670.00 </ist_still>
+        <ist_stoe>7857.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130502</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Mittagsschicht</shift_text>
+        <ist_prod>5800.00 </ist_prod>
+        <ist_rues>7688.00 </ist_rues>
+        <ist_still>9068.00 </ist_still>
+        <ist_stoe>6244.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130502</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Spätschicht</shift_text>
+        <ist_prod>6279.00 </ist_prod>
+        <ist_rues>8311.00 </ist_rues>
+        <ist_still>8015.00 </ist_still>
+        <ist_stoe>6195.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130503</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Frühschicht</shift_text>
+        <ist_prod>6061.00 </ist_prod>
+        <ist_rues>8711.00 </ist_rues>
+        <ist_still>6647.00 </ist_still>
+        <ist_stoe>7381.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130503</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Mittagsschicht</shift_text>
+        <ist_prod>5882.00 </ist_prod>
+        <ist_rues>7633.00 </ist_rues>
+        <ist_still>9825.00 </ist_still>
+        <ist_stoe>5460.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130503</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Spätschicht</shift_text>
+        <ist_prod>5953.00 </ist_prod>
+        <ist_rues>7483.00 </ist_rues>
+        <ist_still>8273.00 </ist_still>
+        <ist_stoe>7091.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130504</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Frühschicht</shift_text>
+        <ist_prod>5708.00 </ist_prod>
+        <ist_rues>7293.00 </ist_rues>
+        <ist_still>6458.00 </ist_still>
+        <ist_stoe>9341.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130504</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Mittagsschicht</shift_text>
+        <ist_prod>5475.00 </ist_prod>
+        <ist_rues>7214.00 </ist_rues>
+        <ist_still>8559.00 </ist_still>
+        <ist_stoe>7552.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130504</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Spätschicht</shift_text>
+        <ist_prod>5244.00 </ist_prod>
+        <ist_rues>7536.00 </ist_rues>
+        <ist_still>8052.00 </ist_still>
+        <ist_stoe>7968.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130505</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Frühschicht</shift_text>
+        <ist_prod>5931.00 </ist_prod>
+        <ist_rues>8827.00 </ist_rues>
+        <ist_still>7343.00 </ist_still>
+        <ist_stoe>6699.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130505</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Mittagsschicht</shift_text>
+        <ist_prod>6342.00 </ist_prod>
+        <ist_rues>6455.00 </ist_rues>
+        <ist_still>7349.00 </ist_still>
+        <ist_stoe>8654.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130505</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Spätschicht</shift_text>
+        <ist_prod>6370.00 </ist_prod>
+        <ist_rues>7495.00 </ist_rues>
+        <ist_still>6430.00 </ist_still>
+        <ist_stoe>8505.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130506</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Frühschicht</shift_text>
+        <ist_prod>5422.00 </ist_prod>
+        <ist_rues>8840.00 </ist_rues>
+        <ist_still>7432.00 </ist_still>
+        <ist_stoe>7106.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130506</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Mittagsschicht</shift_text>
+        <ist_prod>5522.00 </ist_prod>
+        <ist_rues>8338.00 </ist_rues>
+        <ist_still>7826.00 </ist_still>
+        <ist_stoe>7114.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130506</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Spätschicht</shift_text>
+        <ist_prod>5858.00 </ist_prod>
+        <ist_rues>8190.00 </ist_rues>
+        <ist_still>7533.00 </ist_still>
+        <ist_stoe>7219.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130507</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Frühschicht</shift_text>
+        <ist_prod>4994.00 </ist_prod>
+        <ist_rues>8651.00 </ist_rues>
+        <ist_still>7612.00 </ist_still>
+        <ist_stoe>7543.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130507</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Mittagsschicht</shift_text>
+        <ist_prod>5958.00 </ist_prod>
+        <ist_rues>7075.00 </ist_rues>
+        <ist_still>8052.00 </ist_still>
+        <ist_stoe>7715.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130507</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Spätschicht</shift_text>
+        <ist_prod>6231.00 </ist_prod>
+        <ist_rues>6196.00 </ist_rues>
+        <ist_still>8854.00 </ist_still>
+        <ist_stoe>7519.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130508</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Frühschicht</shift_text>
+        <ist_prod>5866.00 </ist_prod>
+        <ist_rues>8192.00 </ist_rues>
+        <ist_still>8280.00 </ist_still>
+        <ist_stoe>6462.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130508</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Mittagsschicht</shift_text>
+        <ist_prod>5682.00 </ist_prod>
+        <ist_rues>8604.00 </ist_rues>
+        <ist_still>8022.00 </ist_still>
+        <ist_stoe>6492.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130508</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Spätschicht</shift_text>
+        <ist_prod>6054.00 </ist_prod>
+        <ist_rues>7025.00 </ist_rues>
+        <ist_still>6802.00 </ist_still>
+        <ist_stoe>8919.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130509</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Frühschicht</shift_text>
+        <ist_prod>5859.00 </ist_prod>
+        <ist_rues>6948.00 </ist_rues>
+        <ist_still>7688.00 </ist_still>
+        <ist_stoe>8305.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130509</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Mittagsschicht</shift_text>
+        <ist_prod>5637.00 </ist_prod>
+        <ist_rues>8226.00 </ist_rues>
+        <ist_still>6854.00 </ist_still>
+        <ist_stoe>8083.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130509</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Spätschicht</shift_text>
+        <ist_prod>5492.00 </ist_prod>
+        <ist_rues>8207.00 </ist_rues>
+        <ist_still>7231.00 </ist_still>
+        <ist_stoe>7870.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130510</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Frühschicht</shift_text>
+        <ist_prod>6829.00 </ist_prod>
+        <ist_rues>6268.00 </ist_rues>
+        <ist_still>7761.00 </ist_still>
+        <ist_stoe>7942.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130510</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Mittagsschicht</shift_text>
+        <ist_prod>6361.00 </ist_prod>
+        <ist_rues>7771.00 </ist_rues>
+        <ist_still>6834.00 </ist_still>
+        <ist_stoe>7834.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130510</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Spätschicht</shift_text>
+        <ist_prod>5620.00 </ist_prod>
+        <ist_rues>7041.00 </ist_rues>
+        <ist_still>7212.00 </ist_still>
+        <ist_stoe>8927.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130511</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Frühschicht</shift_text>
+        <ist_prod>6121.00 </ist_prod>
+        <ist_rues>8093.00 </ist_rues>
+        <ist_still>7233.00 </ist_still>
+        <ist_stoe>7353.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130511</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Mittagsschicht</shift_text>
+        <ist_prod>6864.00 </ist_prod>
+        <ist_rues>6147.00 </ist_rues>
+        <ist_still>7732.00 </ist_still>
+        <ist_stoe>8057.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130511</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Spätschicht</shift_text>
+        <ist_prod>5917.00 </ist_prod>
+        <ist_rues>7113.00 </ist_rues>
+        <ist_still>8051.00 </ist_still>
+        <ist_stoe>7719.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130512</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Frühschicht</shift_text>
+        <ist_prod>5688.00 </ist_prod>
+        <ist_rues>8187.00 </ist_rues>
+        <ist_still>8233.00 </ist_still>
+        <ist_stoe>6692.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130512</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Mittagsschicht</shift_text>
+        <ist_prod>6124.00 </ist_prod>
+        <ist_rues>7028.00 </ist_rues>
+        <ist_still>8299.00 </ist_still>
+        <ist_stoe>7349.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130512</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Spätschicht</shift_text>
+        <ist_prod>5773.00 </ist_prod>
+        <ist_rues>8793.00 </ist_rues>
+        <ist_still>8186.00 </ist_still>
+        <ist_stoe>6048.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130513</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Frühschicht</shift_text>
+        <ist_prod>5950.00 </ist_prod>
+        <ist_rues>7079.00 </ist_rues>
+        <ist_still>8036.00 </ist_still>
+        <ist_stoe>7735.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130513</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Mittagsschicht</shift_text>
+        <ist_prod>5668.00 </ist_prod>
+        <ist_rues>7516.00 </ist_rues>
+        <ist_still>7884.00 </ist_still>
+        <ist_stoe>7732.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130513</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Spätschicht</shift_text>
+        <ist_prod>5423.00 </ist_prod>
+        <ist_rues>7172.00 </ist_rues>
+        <ist_still>8444.00 </ist_still>
+        <ist_stoe>7761.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130514</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Frühschicht</shift_text>
+        <ist_prod>5510.00 </ist_prod>
+        <ist_rues>7477.00 </ist_rues>
+        <ist_still>7192.00 </ist_still>
+        <ist_stoe>8621.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130514</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Mittagsschicht</shift_text>
+        <ist_prod>5901.00 </ist_prod>
+        <ist_rues>8243.00 </ist_rues>
+        <ist_still>6827.00 </ist_still>
+        <ist_stoe>7829.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130514</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Spätschicht</shift_text>
+        <ist_prod>5420.00 </ist_prod>
+        <ist_rues>7521.00 </ist_rues>
+        <ist_still>8415.00 </ist_still>
+        <ist_stoe>7444.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130515</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Frühschicht</shift_text>
+        <ist_prod>5862.00 </ist_prod>
+        <ist_rues>6714.00 </ist_rues>
+        <ist_still>7755.00 </ist_still>
+        <ist_stoe>8469.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130515</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Mittagsschicht</shift_text>
+        <ist_prod>5536.00 </ist_prod>
+        <ist_rues>8339.00 </ist_rues>
+        <ist_still>7760.00 </ist_still>
+        <ist_stoe>7165.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130515</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Spätschicht</shift_text>
+        <ist_prod>6207.00 </ist_prod>
+        <ist_rues>8470.00 </ist_rues>
+        <ist_still>7944.00 </ist_still>
+        <ist_stoe>6179.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130516</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Frühschicht</shift_text>
+        <ist_prod>6257.00 </ist_prod>
+        <ist_rues>8180.00 </ist_rues>
+        <ist_still>7342.00 </ist_still>
+        <ist_stoe>7021.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130516</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Mittagsschicht</shift_text>
+        <ist_prod>5678.00 </ist_prod>
+        <ist_rues>7923.00 </ist_rues>
+        <ist_still>7808.00 </ist_still>
+        <ist_stoe>7391.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130516</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Spätschicht</shift_text>
+        <ist_prod>450.00 </ist_prod>
+        <ist_rues>27022.00 </ist_rues>
+        <ist_still>647.00 </ist_still>
+        <ist_stoe>681.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130517</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Frühschicht</shift_text>
+        <ist_prod>0.00 </ist_prod>
+        <ist_rues>28800.00 </ist_rues>
+        <ist_still>0.00 </ist_still>
+        <ist_stoe>0.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130517</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Mittagsschicht</shift_text>
+        <ist_prod>0.00 </ist_prod>
+        <ist_rues>28800.00 </ist_rues>
+        <ist_still>0.00 </ist_still>
+        <ist_stoe>0.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130517</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Spätschicht</shift_text>
+        <ist_prod>852.00 </ist_prod>
+        <ist_rues>25909.00 </ist_rues>
+        <ist_still>1251.00 </ist_still>
+        <ist_stoe>788.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130518</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Frühschicht</shift_text>
+        <ist_prod>6053.00 </ist_prod>
+        <ist_rues>7830.00 </ist_rues>
+        <ist_still>7706.00 </ist_still>
+        <ist_stoe>7211.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130518</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Mittagsschicht</shift_text>
+        <ist_prod>5826.00 </ist_prod>
+        <ist_rues>8293.00 </ist_rues>
+        <ist_still>7863.00 </ist_still>
+        <ist_stoe>6818.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130518</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Spätschicht</shift_text>
+        <ist_prod>4930.00 </ist_prod>
+        <ist_rues>6675.00 </ist_rues>
+        <ist_still>8479.00 </ist_still>
+        <ist_stoe>8716.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130519</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Frühschicht</shift_text>
+        <ist_prod>4734.00 </ist_prod>
+        <ist_rues>7135.00 </ist_rues>
+        <ist_still>9442.00 </ist_still>
+        <ist_stoe>7489.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130519</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Mittagsschicht</shift_text>
+        <ist_prod>5924.00 </ist_prod>
+        <ist_rues>8115.00 </ist_rues>
+        <ist_still>7481.00 </ist_still>
+        <ist_stoe>7280.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130519</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Spätschicht</shift_text>
+        <ist_prod>5442.00 </ist_prod>
+        <ist_rues>8764.00 </ist_rues>
+        <ist_still>7234.00 </ist_still>
+        <ist_stoe>7360.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130520</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Frühschicht</shift_text>
+        <ist_prod>6093.00 </ist_prod>
+        <ist_rues>8080.00 </ist_rues>
+        <ist_still>7359.00 </ist_still>
+        <ist_stoe>7268.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130520</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Mittagsschicht</shift_text>
+        <ist_prod>5517.00 </ist_prod>
+        <ist_rues>7695.00 </ist_rues>
+        <ist_still>7616.00 </ist_still>
+        <ist_stoe>7972.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130520</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Spätschicht</shift_text>
+        <ist_prod>6286.00 </ist_prod>
+        <ist_rues>7279.00 </ist_rues>
+        <ist_still>8277.00 </ist_still>
+        <ist_stoe>6958.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130521</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Frühschicht</shift_text>
+        <ist_prod>4980.00 </ist_prod>
+        <ist_rues>7578.00 </ist_rues>
+        <ist_still>7594.00 </ist_still>
+        <ist_stoe>8648.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130521</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Mittagsschicht</shift_text>
+        <ist_prod>6565.00 </ist_prod>
+        <ist_rues>7809.00 </ist_rues>
+        <ist_still>7291.00 </ist_still>
+        <ist_stoe>7135.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130521</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Spätschicht</shift_text>
+        <ist_prod>972.00 </ist_prod>
+        <ist_rues>1328.00 </ist_rues>
+        <ist_still>25356.00 </ist_still>
+        <ist_stoe>1144.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130522</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Frühschicht</shift_text>
+        <ist_prod>0.00 </ist_prod>
+        <ist_rues>0.00 </ist_rues>
+        <ist_still>28800.00 </ist_still>
+        <ist_stoe>0.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130522</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Mittagsschicht</shift_text>
+        <ist_prod>0.00 </ist_prod>
+        <ist_rues>0.00 </ist_rues>
+        <ist_still>28800.00 </ist_still>
+        <ist_stoe>0.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130522</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Spätschicht</shift_text>
+        <ist_prod>0.00 </ist_prod>
+        <ist_rues>0.00 </ist_rues>
+        <ist_still>28800.00 </ist_still>
+        <ist_stoe>0.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130523</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Frühschicht</shift_text>
+        <ist_prod>0.00 </ist_prod>
+        <ist_rues>0.00 </ist_rues>
+        <ist_still>28800.00 </ist_still>
+        <ist_stoe>0.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130523</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Mittagsschicht</shift_text>
+        <ist_prod>0.00 </ist_prod>
+        <ist_rues>0.00 </ist_rues>
+        <ist_still>28800.00 </ist_still>
+        <ist_stoe>0.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130523</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Spätschicht</shift_text>
+        <ist_prod>0.00 </ist_prod>
+        <ist_rues>0.00 </ist_rues>
+        <ist_still>28800.00 </ist_still>
+        <ist_stoe>0.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130524</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Frühschicht</shift_text>
+        <ist_prod>0.00 </ist_prod>
+        <ist_rues>0.00 </ist_rues>
+        <ist_still>3800.00 </ist_still>
+        <ist_stoe>0.00 </ist_stoe>
+    </Line>
+    <Line>
+        <werks>1000</werks>
+        <datum>20130618</datum>
+        <arbpl>REP01_C</arbpl>
+        <shift_text>Frühschicht</shift_text>
+        <ist_prod>0.00 </ist_prod>
+        <ist_rues>0.00 </ist_rues>
+        <ist_still>0.00 </ist_still>
+        <ist_stoe>0.00 </ist_stoe>
+    </Line>
+</BI_ARBPL>
