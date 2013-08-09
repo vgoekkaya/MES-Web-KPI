@@ -1,16 +1,18 @@
-<?xml version="1.0"?><BI_ARBPL>
+<?xml version="1.0"?>
+<?xml-stylesheet href="xsl_table.xsl" type="text/xsl"?>
+<BI_ARBPL>
     <Line>
-        <werks>1000</werks>
-        <datum>20130502</datum>
-        <arbpl>REP01_C</arbpl>
-        <shift_text>Frühschicht</shift_text>
-        <ist_prod>6128.00 </ist_prod>
-        <ist_rues>8145.00 </ist_rues>
-        <ist_still>6670.00 </ist_still>
-        <ist_stoe>7857.00 </ist_stoe>
+        <werks name="Werk">1000</werks>
+        <datum name="Datum">20130502</datum>
+        <arbpl name="Arbeitsplatz">REP01_C</arbpl>
+        <shift_text name="Schicht">Frühschicht</shift_text>
+        <ist_prod name="Ist-Prod">6128.00 </ist_prod>
+        <ist_rues name="Ist-Rues">8145.00 </ist_rues>
+        <ist_still name="Ist-Still">6670.00 </ist_still>
+        <ist_stoe name="Ist-Stoe">7857.00 </ist_stoe>
     </Line>
     <Line>
-        <werks>1000</werks>
+        <werks name="Werk">2999</werks>
         <datum>20130502</datum>
         <arbpl>REP01_C</arbpl>
         <shift_text>Mittagsschicht</shift_text>
